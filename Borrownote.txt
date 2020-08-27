@@ -1,0 +1,18 @@
+=============================================================
+
+			 Borrower Receipt:
+
+Current Date and Time of transcation:		2019-02-01 13:34:07.627702
+
+Name:Saugat
+
+Book ID 	 Book Name 		 Price
+
+
+
+------------------------------------------------------------
+Grand Total:					$0
+
+Note: All books must be returned within 10 days.
+
+===========================================================
